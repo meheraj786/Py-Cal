@@ -18,4 +18,4 @@ elif (ch == '/'):
 elif (ch == '%'):
     print("Remainder is: " + str(a % b))        
 else: 
-    print("fuck man, are you a mad?")    
+    print("Wrong Operator!")    
